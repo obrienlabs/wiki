@@ -1,27 +1,18 @@
-# Mirror of http://wiki.obrienlabs.cloud
-## Developer Guides
+# Mirror/Migrating from http://wiki.obrienlabs.cloud
 
+## Links
+Wiki/Confluence (2019-2021 will be dormant) : http://wiki.obrienlabs.cloud/ and associated JIRA http://jira.obrienlabs.cloud/
 
-## Markdown
-view in vcode - shift-ctrl-v
-**bold**, *italic*
-> blockquote
+Github (2014-2021) : user https://github.com/obriensystems under org https://github.com/obrienlabs
 
-    code
-1. ordered
-2. lists
-    1. indented
-- unordered
-    - list
+Linkedin : https://www.linkedin.com/in/michaelobrien-developer/
 
-    <code> block indented 4 spaces or in code bracket </code>
+Twitter (a couple a year) : https://twitter.com/_mikeobrien
 
-line below
+Blogspot (until 2019) : http://eclipsejpa.blogspot.com/
 
----
+EclipseLink (2006-2011) - open source : https://wiki.eclipse.org/EclipseLink/Development/JPA_2.0/metamodel_api
 
-![image text](/image-link)
+ONAP (2017-2019) - open source : https://wiki.onap.org/display/DW/Cloud+Native+Deployment
 
-[wiki.obrienlabs.cloud](http://wiki.obrienlabs.cloud)
-html markup <em>italics</em>
 
